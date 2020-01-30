@@ -1,0 +1,26 @@
+h1 {
+  text-align: center;
+}
+
+.inputs {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+button {
+   font-size: 12pt;
+   margin: 0 5px;
+}
+
+#chartContainer {
+  margin: 0 10px;
+}
+
+.canvasjs-chart-canvas {
+  margin-bottom: 20px;
+}
+
+.canvasjs-chart-credit {
+  margin-top: 20px !important;
+}
